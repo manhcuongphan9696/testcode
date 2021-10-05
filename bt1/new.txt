@@ -6,4 +6,8 @@ a>b
 a= b
 
 
+<<<<<<< HEAD
 clque fi z
+=======
+haha
+>>>>>>> 8434705fc9ac9f9f05b58f79741feb993aa4d5f9
