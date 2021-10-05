@@ -4,3 +4,6 @@ if a
 a>b
 
 a= b
+
+
+clque fi z
